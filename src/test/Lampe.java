@@ -3,7 +3,7 @@ package test;
 public class Lampe 
 {
 	private static final int PUISSANCE_DEFAULT = 100;
-	//entier definnissant la puissance de la lape
+	//entier definnissant la puissance de la lampe
 	public int puissance;
 	//bolleen donnat l'état de la lampe
 	public boolean estAllumee;

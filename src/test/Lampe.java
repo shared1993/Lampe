@@ -16,7 +16,7 @@ public class Lampe
 		this(PUISSANCE_DEFAULT);
 	}
 	/**
-	 * Afecte la puissance p a la lampe (la lampe s'eteint).
+	 * Affecte la puissance p à la lampe (la lampe s'eteint).
 	 * @param p puissance de la lampe
 	 */
 	public Lampe(int p)
